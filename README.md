@@ -1,4 +1,4 @@
-# React Flash Cards 🧠
+# React Flash Cards
 
 A simple and interactive Flash Cards application built with React, TypeScript, and Material UI.
 
