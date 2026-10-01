@@ -1,8 +1,11 @@
+
 # React Flash Cards
 
 A simple and interactive Flash Cards application built with React, TypeScript, and Material UI.
 
 The application allows users to review questions and reveal their answers using an interactive flash card interface.
+
+<img width="571" height="607" alt="flashCard" src="https://github.com/user-attachments/assets/92bf121d-f4f9-45e6-a096-1354f5104369" />
 
 ## 🚀 Features
 
